@@ -6,7 +6,7 @@
 <br/>
 
 <div align="left">
-<img align="right" alt="Coding"  height = "300" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding"  height = "350" width="370" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 ### 🛠️ Tech Stack
