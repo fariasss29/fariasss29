@@ -37,7 +37,8 @@
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </p>
 <br/>
-# 📫 Contact
+
+### 📫 Contact
 <a href="mailto:kauefariaslourenco@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -48,5 +49,10 @@
 
 <br/>
 <hr/>
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fariasss29&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fariasss29&layout=compact&theme=dracula"/>
+</div>
 
 
