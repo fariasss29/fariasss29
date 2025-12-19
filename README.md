@@ -1,5 +1,5 @@
 👋 Hi, I’m @fariasss29  
-👨‍💻 I’m a Software Developer at Hitachi Astemo  
+👨‍💻 I’m a Software Developer at Astemo  
 🎓 I’m currently studying Information Systems  
 
 👀 I’m interested in web and mobile development, clean code, performance optimization, and real-world problem solving  
