@@ -1,9 +1,9 @@
 <div align="center">
-  <h1>Hey! Eu sou o [Seu Nome] 👨‍💻</h1>
+  <h1>Hey! Eu sou o Kauê 👨‍💻</h1>
 </div>
 
 <div align="center">
-  <h3>Desenvolvedor Full Stack | Apaixonado por Tecnologia</h3>
+  <h3>Desenvolvedor Full Stack </h3>
 </div>
 
 <br/>
