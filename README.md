@@ -6,7 +6,7 @@
 <br/>
 
 <div align="left">
-<img align="right" alt="Coding"   min-width="300px" max-width="300px", min-heigth="400px"  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding"   min-width="200px" max-width="200px", min-heigth="500px"  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 ### 🛠️ Tech Stack
