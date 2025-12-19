@@ -1,6 +1,6 @@
 <div align="center">
 <h1>👋 Hi, I’m Kauê</h1>
-<h3>Software Developer @ Astemo | Information Systems Student</h3>
+<h3>Software Developer Astemo | Information Systems Student</h3>
 </div>
 
 <br/>
@@ -54,9 +54,12 @@
 
 <br/>
 
-### 📫 Contact
+### 📫 Contact :)
 <a href="mailto:kauefariaslourenco@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/SEU-USUARIO/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </div>
 
