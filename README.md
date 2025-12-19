@@ -8,21 +8,6 @@
 <div align="left">
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-### About Me
-
-👨‍💻 I’m a **Software Developer at Astemo**
-<br/>
-🎓 I’m currently studying **Information Systems**
-<br/>
-👀 I’m interested in **Web & Mobile Development, Clean Code, and Performance**
-<br/>
-🌱 I’m learning **Advanced React, Flutter, and Backend Integration**
-<br/>
-💞️ Looking to collaborate on **projects that drive impact**
-<br/>
-⚡ Fun fact: **I enjoy building things from scratch (code, spreadsheets, or gym routines) 🚀**
-<br/>
-<br/>
 
 ### 🛠️ Tech Stack
 
